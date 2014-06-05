@@ -1,15 +1,15 @@
 {
-	"name": "dark/smarty-view",
+	"name": "aaron/smarty-view",
 	"description": "Smarty view engine incl. View Composer support for Laravel 4",
 	"authors": [
 		{
-			"name": "Luke Foreman",
-			"email": "luke@weeaboo.com"
+			"name": "Aaron",
+			"email": "ymmianyang@gmail.com"
 		}
 	],
 	"require": {
 		"php": ">=5.3.0",
-		"illuminate/support": "4.1.x"
+		"illuminate/support": "4.2.x"
 	},
 	"autoload": {
 		"classmap": [
